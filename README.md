@@ -1,2 +1,2 @@
 # datenguide
-Private repository for our Datenguide project
+Repository for our Datenguide project
